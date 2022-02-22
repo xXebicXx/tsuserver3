@@ -30,10 +30,10 @@ local: false
 # You can add, remove, or change passwords for individual users.
 # When they are changed using /refresh, the affected users' mod statuses are
 # revoked.
-modpass: mod
+modpass: ALotOfBitches?
 
 # Sent to joining players.
-motd: Welcome to my server!
+motd: GETOUTOFMYHEADPPLEASE ! !
 
 # Whether or not the server is open to webAO connections.
 # The websocket port must be different from the main server port
@@ -46,8 +46,8 @@ asset_url:
 # Whether or not the server should be advertised on the server list.
 use_masterserver: true
 # How the server should be listed on the server list.
-masterserver_name: My First Server
-masterserver_description: This is my flashy new server
+masterserver_name: AMONG US SERVER REAL
+masterserver_description: SQUID GAMES ! !
 # Custom IP address/hostname to use on the server list
 # masterserver_custom_hostname: ao.example.com
 
@@ -81,7 +81,7 @@ testimony_limit: 30
 max_chars: 256
 
 # How long a ban will last when no duration is given
-default_ban_duration: 6 hours
+default_ban_duration: 12 hours
 
 # Kicks idlers
 idle_timeout:
